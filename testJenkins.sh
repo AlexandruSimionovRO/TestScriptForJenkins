@@ -3,3 +3,4 @@
 echo "This script is on my GitHub Repo"
 uname -a | awk '{print $2}' && date
 echo "This was added after setting the webhook!"
+echo "This was added after setting the webhook!"
